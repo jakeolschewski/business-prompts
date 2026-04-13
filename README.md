@@ -3222,7 +3222,9 @@ Have a prompt that belongs here? See [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Also by WEDGE Method
 
 - **[awesome-solopreneur-ai](https://github.com/jakeolschewski/awesome-solopreneur-ai)** — 367+ curated AI tools for solopreneurs, freelancers, and one-person businesses
+- [WedgeGuard](https://github.com/jakeolschewski/wedgeguard) — VS Code extension: lock code with Wedges, generate with local AI
 - **[consultant-ai](https://github.com/jakeolschewski/consultant-ai)** — Open-source MCP server that turns Claude/ChatGPT into a consulting co-pilot
+- [WedgeGuard](https://github.com/jakeolschewski/wedgeguard) — VS Code extension: lock code with Wedges, generate with local AI
 - **[WEDGE Autopilot](https://thewedgemethodai.com)** — The full AI consulting suite (SaaS)
 
 ---
