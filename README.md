@@ -3219,6 +3219,14 @@ Have a prompt that belongs here? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
+## Also by WEDGE Method
+
+- **[awesome-solopreneur-ai](https://github.com/jakeolschewski/awesome-solopreneur-ai)** — 367+ curated AI tools for solopreneurs, freelancers, and one-person businesses
+- **[consultant-ai](https://github.com/jakeolschewski/consultant-ai)** — Open-source MCP server that turns Claude/ChatGPT into a consulting co-pilot
+- **[WEDGE Autopilot](https://thewedgemethodai.com)** — The full AI consulting suite (SaaS)
+
+---
+
 ## About WEDGE Method
 
 These prompts are built using the [WEDGE Framework](https://thewedgemethodai.com) — a prompt engineering methodology developed for business operators who need reliable, professional-quality AI output.
