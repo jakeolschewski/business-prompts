@@ -1,0 +1,30 @@
+# Markdownlint configuration for business-prompts
+# See: https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md
+
+default: true
+
+# Allow longer lines — prompts naturally have long blockquote lines
+MD013:
+  line_length: 300
+  heading_line_length: 300
+  code_block_line_length: 300
+
+# Allow multiple headings with same content (numbered lists in different sections)
+MD024:
+  siblings_only: true
+
+# Allow bare URLs in some cases
+MD034: false
+
+# Ordered list item prefix — allow "1. 2. 3." style
+MD029:
+  style: ordered
+
+# Allow inline HTML for badges
+MD033: false
+
+# Allow emphasis in headings
+MD036: false
+
+# First line heading not required
+MD041: false
