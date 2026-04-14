@@ -12,6 +12,13 @@
 
 > Part of the **[WEDGE Method ecosystem](https://thewedgemethodai.com)** — AI strategy and implementation for modern businesses.
 
+## 💼 Want These Prompts Custom-Tuned for Your Business?
+
+I run AI consulting engagements where I build bespoke prompt libraries, automation pipelines,
+and AI workflows tailored to your exact operations.
+
+**[→ Apply for a free AI Discovery Call](https://docs.google.com/forms/d/e/1FAIpQLSd0GSjcTxKsTopJkaXzH6WvkfQ8_d5hzWZKkfZ9QqmesWGPig/viewform)**
+
 Stop writing prompts from scratch. Copy these, fill in your details, get professional results.
 
 Works with: **ChatGPT · Claude · Gemini · Perplexity · Llama · Mistral · Any LLM**
@@ -3269,3 +3276,10 @@ MIT © [WEDGE Method LLC](https://thewedgemethodai.com)
 
 *Found this useful? Star the repo. Know someone who'd benefit? Share it.*
 *Built something with these? We'd love to know → [thewedgemethodai.com](https://thewedgemethodai.com)*
+
+## 💼 Want These Prompts Custom-Tuned for Your Business?
+
+I run AI consulting engagements where I build bespoke prompt libraries, automation pipelines,
+and AI workflows tailored to your exact operations.
+
+**[→ Apply for a free AI Discovery Call](https://docs.google.com/forms/d/e/1FAIpQLSd0GSjcTxKsTopJkaXzH6WvkfQ8_d5hzWZKkfZ9QqmesWGPig/viewform)**
