@@ -1,15 +1,20 @@
 # Business Prompts 💼
 
-**Production-ready AI prompts for every business function.**
+**94 production-ready AI prompts for every business function.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/jakeolschewski/business-prompts?style=flat-square)](https://github.com/jakeolschewski/business-prompts/stargazers)
+[![Forks](https://img.shields.io/github/forks/jakeolschewski/business-prompts?style=flat-square)](https://github.com/jakeolschewski/business-prompts/network/members)
+[![Issues](https://img.shields.io/github/issues/jakeolschewski/business-prompts?style=flat-square)](https://github.com/jakeolschewski/business-prompts/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/jakeolschewski/business-prompts?style=flat-square)](https://github.com/jakeolschewski/business-prompts/commits/main)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Built by WEDGE Method](https://img.shields.io/badge/Built%20by-WEDGE%20Method-6B3FA0?style=flat-square)](https://thewedgemethodai.com)
+
+> Part of the **[WEDGE Method ecosystem](https://thewedgemethodai.com)** — AI strategy and implementation for modern businesses.
 
 Stop writing prompts from scratch. Copy these, fill in your details, get professional results.
 
 Works with: **ChatGPT · Claude · Gemini · Perplexity · Llama · Mistral · Any LLM**
-
-> Built by [WEDGE Method LLC](https://thewedgemethodai.com) — AI strategy and implementation for modern businesses.
 
 ---
 
@@ -3213,9 +3218,26 @@ Every prompt uses the **WEDGE Framework**:
 
 ---
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jakeolschewski/business-prompts&type=Date)](https://star-history.com/#jakeolschewski/business-prompts&Date)
+
+---
+
 ## Contributing
 
 Have a prompt that belongs here? See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+**Ways to contribute:**
+- [Submit a new prompt](https://github.com/jakeolschewski/business-prompts/issues/new) — open an issue with the prompt and use case
+- [Improve an existing prompt](https://github.com/jakeolschewski/business-prompts/pulls) — better constraints, clearer deliverables
+- [Report a broken prompt](https://github.com/jakeolschewski/business-prompts/issues) — model updates sometimes break expected outputs
+- [Star the repo](https://github.com/jakeolschewski/business-prompts/stargazers) — helps others discover these prompts
+
+**Prompt submission guidelines:**
+- Must follow the WEDGE framework structure (Who, Establish Context, Define Deliverable, Guide Constraints, Evaluate)
+- Must be tested with at least one major LLM
+- Must solve a real business problem, not a generic writing task
 
 ---
 
